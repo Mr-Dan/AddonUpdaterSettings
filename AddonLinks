@@ -1,2 +1,6 @@
 AtlasLoot,https://raw.githubusercontent.com/Mr-Dan/AtlasLoot-Sirus/main/AtlasLoot/AtlasLoot.toc,main,AtlasLoot,AtlasLootFu,AtlasLoot_BurningCrusade,AtlasLoot_Crafting,AtlasLoot_OriginalWoW,AtlasLoot_Sirus,AtlasLoot_WorldEvents,AtlasLoot_WrathoftheLichKing
 ItemRack,https://raw.githubusercontent.com/Mr-Dan/ItemRack_Sirus/main/ItemRack/ItemRack.toc,main,ItemRack,ItemRackOptions,TitanItemRack
+AckisRecipeList,https://raw.githubusercontent.com/fxpw/AckisRecipeList-for-sirus/master/AckisRecipeList/AckisRecipeList.toc,master,AckisRecipeList
+Atlas,https://raw.githubusercontent.com/fxpw/Atlas-Sirus/master/Atlas/Atlas.toc,master,Atlas,Atlas_Battlegrounds,Atlas_DungeonLocs,Atlas_OutdoorRaids,Atlas_Sirus_Cartel,Atlas_Sirus_Categories,Atlas_Transportation
+Castbars,https://raw.githubusercontent.com/fxpw/Castbars-ru/master/Castbars/Castbars.toc,master,Castbars
+Details,https://raw.githubusercontent.com/fxpw/Details-WotLK/master/Details/Details.toc,master,Details,Details_3DModelsPaths,Details_ChartViewer,Details_CustomDmgAtSkull,Details_CustomPrePotions,Details_DataStorage,Details_DeathGraphs,Details_EncounterDetails,Details_SunderCount,Details_TimeLine,Details_TinyThreat

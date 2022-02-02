@@ -3,7 +3,7 @@ ItemRack,https://raw.githubusercontent.com/Mr-Dan/ItemRack_Sirus/main/ItemRack/I
 AckisRecipeList,https://raw.githubusercontent.com/fxpw/AckisRecipeList-for-sirus/master/AckisRecipeList/AckisRecipeList.toc,master,AckisRecipeList
 Atlas,https://raw.githubusercontent.com/fxpw/Atlas-Sirus/master/Atlas/Atlas.toc,master,Atlas,Atlas_Battlegrounds,Atlas_DungeonLocs,Atlas_OutdoorRaids,Atlas_Sirus_Cartel,Atlas_Sirus_Categories,Atlas_Transportation
 Castbars,https://raw.githubusercontent.com/fxpw/Castbars-ru/master/Castbars/Castbars.toc,master,Castbars
-Details,https://raw.githubusercontent.com/fxpw/Details-WotLK/master/Details/Details.toc,master,Details,Details_3DModelsPaths,Details_ChartViewer,Details_CustomDmgAtSkull,Details_CustomPotions,Details_DataStorage,Details_DeathGraphs,Details_EncounterDetails,Details_SunderCount,Details_TimeLine,Details_TinyThreat
+Details,https://raw.githubusercontent.com/fxpw/Details-WotLK/master/Details/Details.toc,master,Details,Details_3DModelsPaths,Details_ChartViewer,Details_CustomDmgAtSkull,Details_CustomPotions,Details_DataStorage,Details_DeathGraphs,Details_EncounterDetails,Details_SunderCount,Details_TimeLine,Details_TinyThreat,Details_CustomTankInfo
 Eavesdrop,https://raw.githubusercontent.com/fxpw/EavesDrop_ru/master/EavesDrop/EavesDrop.toc,master,EavesDrop
 ElvUI,https://raw.githubusercontent.com/fxpw/ElvUI/master/ElvUI/ElvUI.toc,master,ElvUI,ElvUI_OptionsUI
 ElvUI_Sirus,https://raw.githubusercontent.com/fxpw/ElvUI_Sirus/master/ElvUI_Sirus/ElvUI_Sirus.toc,master,ElvUI_Sirus

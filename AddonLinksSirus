@@ -21,3 +21,6 @@ ATT,https://raw.githubusercontent.com/sirus-addons/ATT/master/ATT/ATT.toc,master
 TipTac,https://raw.githubusercontent.com/sirus-addons/TipTac/master/TipTac/TipTac.toc,master,TipTac,TipTacItemRef,TipTacOptions,TipTacTalents
 MoveAnything,https://raw.githubusercontent.com/sirus-addons/MoveAnything/master/MoveAnything/MoveAnything.toc,master,MoveAnything
 FishingBuddy,https://raw.githubusercontent.com/sirus-addons/FishingBuddy/master/FishingBuddy/FishingBuddy.toc,master,FishingBuddy
+Clique,https://raw.githubusercontent.com/fxpw/Clique/master/Clique/Clique.toc,master,Clique
+RaidRoll,https://raw.githubusercontent.com/fxpw/RaidRoll/master/RaidRoll/RaidRoll.toc,master,RaidRoll,RaidRoll_EPGP,RaidRoll_LootTracker
+DrDamage,https://raw.githubusercontent.com/fxpw/DrDamage/master/DrDamage/DrDamage.toc,master,DrDamage

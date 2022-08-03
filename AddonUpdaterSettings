@@ -1,3 +1,3 @@
 DeleteDirectory[.github,.vs,.vscode]
 ListsAddons[https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterLinks, (## Version):\s*(.*\d)*, ## Version:|https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterSirusLinks, (@Version):\s*(\d)*, @Version:]
-LinkLastUpdate[https://forum.sirus.su/threads/addon-updater.205056/post-2039167]
+LinkLastUpdate[https://forum.sirus.su/threads/addon-updater.205056/post-2085413]

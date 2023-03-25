@@ -1,0 +1,9 @@
+{
+  "DeleteDirectory":[".github",".vs",".vscode"],
+  "Tocs":[
+      {"Link":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterLinks","Regex":"## Version:\\s*((?:\\d\\.*)*)"},
+      {"Link":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterSirusLinks","Regex":"@Version:\\s*(\\d*)"}
+    ],
+  "News":"https://forum.sirus.su/threads/addon-updater.205056/post-2510642",
+  "ListSpells":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/PatcherSpell"
+}

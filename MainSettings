@@ -4,7 +4,7 @@
       {"Link":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterLinks","Regex":"## Version:\\s*((?:\\d\\.*)*)"},
       {"Link":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterSirusLinks","Regex":"@Version:\\s*(\\d*)"}
     ],
-  "News":"https://forum.sirus.su/threads/addon-updater.205056/post-2547029",
+  "News":"https://forum.sirus.su/threads/addon-updater.205056/post-2559202",
   "ListSpells":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/PatchCreator/SpellDBC",
   "ListSpellVisualKit":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/PatchCreator/SpellVisualKitDBC",
   "Files":["AddonUpdater.exe","LICENSE","README.md","PatchCreator.dll"]

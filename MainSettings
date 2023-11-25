@@ -1,11 +1,20 @@
 {
-  "DeleteDirectory":[".github",".vs",".vscode"],
-  "Tocs":[
-      {"Link":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterLinks","Regex":"## Version:\\s*((?:\\d\\.*)*)"},
-      {"Link":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterSirusLinks","Regex":"@Version:\\s*(\\d*)"}
-    ],
-  "News":"https://forum.sirus.su/threads/addon-updater.205056/post-2559202",
-  "ListSpells":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/PatchCreator/SpellDBC",
-  "ListSpellVisualKit":"https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/PatchCreator/SpellVisualKitDBC",
-  "Files":["AddonUpdater.exe","LICENSE","README.md","PatchCreator.dll"]
+	"DeleteDirectory": [".github", ".vs", ".vscode"],
+	"Tocs": [
+	{
+		"Link": "https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterLinks",
+		"Regex": "Regex\":\"## Version:\\\\s*((?:\\\\d\\\\.*)*)"
+	},
+	{
+		"Link": "https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterSirusLinks",
+		"Regex": "@Version:\\s*(\\d*)"
+	}],
+	"News": "https://discord.gg/addony-dlia-sirus-su-914079030125420565",
+	"DiscordLink": "https://discord.gg/addony-dlia-sirus-su-914079030125420565",
+	"ForumLink": "https://discord.gg/addony-dlia-sirus-su-914079030125420565",
+	"DonateLink": "https://qiwi.com/n/MISTERDAN",
+	"GitHubLink": "https://github.com/Mr-Dan/AddonUpdater",
+	"Thx": "Fxpw, Fallafell, Waini, Qb.",
+	"Version": "1.33",
+	"Files": ["AddonUpdater.exe", "LICENSE", "README.md", "PatchCreator.dll"]
 }

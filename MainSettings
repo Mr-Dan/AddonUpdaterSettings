@@ -17,5 +17,5 @@
 	"Thx": "Fxpw, Fallafell, Waini, Qb.",
 	"Version": "1.33",
 	"Contact": "mr__dan",
-	"Files": ["AddonUpdater.exe", "LICENSE", "README.md", "PatchCreator.dll", "Newtonsoft.Json.dll"]
+	"Files": ["AddonUpdater.exe", "LICENSE", "README.md", "PatchCreator.dll"]
 }

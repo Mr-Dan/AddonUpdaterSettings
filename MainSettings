@@ -3,7 +3,7 @@
 	"Tocs": [
 	{
 		"Link": "https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterLinks",
-		"Regex": "Regex\":\"## Version:\\\\s*((?:\\\\d\\\\.*)*)"
+		"Regex": "## Version:\\s*((?:\\d\\.*)*)"
 	},
 	{
 		"Link": "https://raw.githubusercontent.com/Mr-Dan/AddonUpdaterSettings/main/AddonUpdaterSirusLinks",

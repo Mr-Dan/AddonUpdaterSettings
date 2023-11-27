@@ -15,7 +15,7 @@
 	"DonateLink": "https://qiwi.com/n/MISTERDAN",
 	"GitHubLink": "https://github.com/Mr-Dan/AddonUpdater",
 	"Thx": "Fxpw, Fallafell, Waini, Qb.",
-	"Version": "1.43",
+	"Version": "1.44",
 	"Contact": "mr__dan",
 	"Files": ["AddonUpdater.exe", "LICENSE", "README.md", "PatchCreator.dll"]
 }

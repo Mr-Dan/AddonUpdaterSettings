@@ -17,7 +17,7 @@
 	"Thx": "Fxpw, Fallafell, Waini, Qb.",
 	"Version": "1.44",
 	"VersionUpdate": "1.0.0.0",
-	"AddonUpdaterLink": "https://github.com/Mr-Dan/AddonUpdaterCode/releases/download/a88a2fa-202311271811/AddonUpdater.exe",
+	"AddonUpdaterLink": "https://github.com/Mr-Dan/AddonUpdaterCode/releases/download/a88a2fa-202311271811/AddonUpdaterEXE.zip",
 	"UpdateLink": "https://github.com/Mr-Dan/AddonUpdaterCode/releases/download/a88a2fa-202311271811/Update.exe",
 	"Contact": "mr__dan",
 	"Files": ["AddonUpdater.exe", "LICENSE", "README.md", "PatchCreator.dll"]

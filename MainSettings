@@ -16,9 +16,9 @@
 	"GitHubLink": "https://github.com/Mr-Dan/AddonUpdater",
 	"Thx": "Fxpw, Fallafell, Waini, Qb.",
 	"Version": "1.44",
-	"VersionUpdate": "1.0.0.0",
-	"AddonUpdaterLink": "https://github.com/Mr-Dan/AddonUpdaterCode/releases/download/a88a2fa-202311271811/AddonUpdaterEXE.zip",
-	"UpdateLink": "https://github.com/Mr-Dan/AddonUpdaterCode/releases/download/a88a2fa-202311271811/Update.exe",
+	"VersionUpdate": "2.0",
+	"AddonUpdaterLink": "https://github.com/Mr-Dan/AddonUpdaterCode/releases/download/31e82f4-202312022112/AddonUpdater.zip",
+	"UpdateLink": "https://github.com/Mr-Dan/AddonUpdaterCode/releases/download/31e82f4-202312022112/Update.exe",
 	"Contact": "mr__dan",
 	"Files": ["AddonUpdater.exe", "LICENSE", "README.md", "PatchCreator.dll"]
 }
